@@ -7,3 +7,6 @@ fastapi
 uvicorn 
 streamlit 
 pydantic
+sqlalchemy
+psycopg2 
+joblib 
